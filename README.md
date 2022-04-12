@@ -1,5 +1,6 @@
 # Password Generator
-Hacemos un pequeño proyecto de un buscador de usuario de Github (js).
+Hacemos un Generador de Contraseñas con JavaScript
+
 **Tutorial**
 <br/><br/>
 https://youtu.be/08AmHQRdhKo
